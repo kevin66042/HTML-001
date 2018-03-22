@@ -1,0 +1,47 @@
+nav {
+    background-color:black;
+    padding: 10px;
+}
+nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-right: 2px solid white;
+    padding-right: 5px;
+}
+
+body {
+    font-family: "Arial", "sans-serif";
+}
+
+div.wrapper {
+    width: 960px;
+    margin: auto;
+}
+
+article {
+    float: left;
+    width: 465px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+table {
+   border: 1px solid black;
+   border-collapse: collapse;
+   margin-top: 30px;
+   width: 465px;
+}
+
+td {
+    padding: 15px;
+    border: 1px solid black;
+}
+
+td.groen {
+    background-color: #99ff99;
+}
+
+td.blauw {
+    background-color: #99ffff;
+}
